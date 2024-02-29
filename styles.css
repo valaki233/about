@@ -115,6 +115,7 @@
     margin: auto;
   }
   a#scroll-btn {
+    scroll-behavior: smooth;
     position: absolute;
     height: 4em;
     width: 2em;
