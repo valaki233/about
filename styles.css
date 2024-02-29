@@ -93,7 +93,7 @@
   }
 
   .background{
-    background-image: url('IMG_9222.jpg');
+    background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
