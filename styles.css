@@ -1,4 +1,7 @@
 /* Style the header with a grey background and some padding */
+html{
+    scroll-behavior: smooth;
+}
 .header {
     overflow: hidden;
     background-color:rgba(0, 0, 0, 0.5);
@@ -115,7 +118,6 @@
     margin: auto;
   }
   a#scroll-btn {
-    scroll-behavior: smooth;
     position: absolute;
     height: 4em;
     width: 2em;
