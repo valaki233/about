@@ -1,6 +1,6 @@
-/* Style the header with a grey background and some padding */
-html{
-    scroll-behavior: smooth;
+*, html {
+
+    scroll-behavior: smooth !important;
 }
 .header {
     overflow: hidden;
